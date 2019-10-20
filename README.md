@@ -11,8 +11,11 @@ Contributors:
 ### An Adapatable Framework Based on Apache Spark
 Technologies Utilized:
 > Apache Spark
+
 > Maven 
+
 > OpenTripPlanner
+
 > OpenStreetMap
 
 
