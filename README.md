@@ -2,7 +2,9 @@
 ## Team MX
 
 Home of the Team MX Capstone project
+
 Sept 2019 - April 2020
+
 Contributors:
 - rmf757
 - minbarix
