@@ -14,9 +14,15 @@ Contributors:
 Technologies Utilized:
 > Apache Spark
 
+> Apache Hadoop
+
+> Apache Kafka
+
+> Apache Cassandra 
+
 > Maven 
 
-> OpenTripPlanner
+> Open Source Routing Machine
 
 > OpenStreetMap
 
