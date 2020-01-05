@@ -1,0 +1,9 @@
+Current Software Versions Installed:
+	- Common to all VMs in cluster 
+
+Apache Spark 2.4.4
+Apache Hadoop 2.7
+Apache Kafka TBD
+
+SBT 1.3.5
+Java OpenJDK 1.8 
