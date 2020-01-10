@@ -8,7 +8,7 @@ Sept 2019 - April 2020
 Contributors:
 - rmf757
 - minbarix
-- jflorek
+- jonathonflorek
 
 ### An Adapatable Framework Based on Apache Spark
 Technologies Utilized:
